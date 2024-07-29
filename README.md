@@ -8,4 +8,3 @@ Reads all these PDF invoices
 Figures out what's important in each one
 When you give it a new invoice, it tells you which ones in your collection are most similar
 
-It's like playing a game of "find the matching invoice," but the computer does all the hard work for you!
